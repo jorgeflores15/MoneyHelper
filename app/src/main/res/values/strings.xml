@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MoneyHelper</string>
+    <string name="action_settings">Settings</string>
+    <string name="proporcion_ingresos_egresos">Proporcion Ingresos/Egresos</string>
+    <string name="main_textview_titulo">Contabilidad de Ingresos / Egresos</string>
+    <string name="main_textView_ahorro">Saldo Actual Ahorro</string>
+    <string name="main_textView_credito">Saldo Actual Credito</string>
+    <string name="main_textView_efectivo">Saldo Actual Efectivo</string>
+    <string name="form_textView_tittle">Registro Ingresos / Egresos</string>
+    <string name="form_monto">Monto</string>
+    <string name="registrar">Registrar</string>
+    <string name="tipo_de_cuenta">Tipo de Cuenta</string>
+    <string-array name="tiposCuenta">
+        <item>Saldo Actual Ahorro</item>
+        <item>Saldo Actual Credito</item>
+        <item>Saldo Actual Efectivo</item>
+    </string-array>
+</resources>

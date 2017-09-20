@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="all_border_layout">20dp</dimen>
+    <dimen name="all_textSize_titlle">20sp</dimen>
+    <dimen name="size_common_text">16sp</dimen>
+    <dimen name="all_tittle_top">20dp</dimen>
+</resources>
